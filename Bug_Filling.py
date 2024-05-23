@@ -6,4 +6,6 @@ window.title("TKUI")
 
 label = tk.Label("Wid")
 
+button = tk.Button('Start')
+
 tk.mainloop()
